@@ -1,5 +1,7 @@
 # Airflow log files
-logs/*
+logs/dag_id=*/
+logs/dag_processor_manager/
+logs/scheduler/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
