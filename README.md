@@ -1,0 +1,2 @@
+# How to Orchestrate Snowflake Data Pipelines with Docker and Airflow
+This repository contains an example implementation of Airflow using Docker and a custom Snowflake provider connection. The repository includes a Dockerfile for building the Airflow image, as well as configuration files and example DAGs for scheduling tasks. For more information, please see the related [Medium article](https://medium.com/@foprel/how-to-orchestrate-snowflake-data-pipelines-with-docker-and-airflow-92f6a98813bf).
